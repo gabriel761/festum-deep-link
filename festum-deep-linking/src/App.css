@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap');
+
 .App {
   text-align: center;
 }
+
+body {}
 
 .App-logo {
   height: 40vmin;
@@ -28,10 +32,59 @@
   color: #61dafb;
 }
 
+.main-background {
+  background-image: url("/src/assets/images/fundo-deeplink-site-generative.png");
+  height: 100vh;
+  width: auto;
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-text-wrap {
+  padding: 25px 30px;
+  width: 80%;
+  max-width: 500px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.197021);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.logo-text-wrap{
+  width: 30%;
+  height: auto;
+  margin-bottom: 30px;
+}
+.main-text {
+  color:#282c34;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16pt;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 0;
+  
+}
+
+.google-button{
+  width: 200px;
+  display: block;
+
+}
+.google-button-img{
+  width: 100%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
