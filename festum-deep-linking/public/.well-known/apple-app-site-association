@@ -11,11 +11,11 @@
     },
    
     "activitycontinuation": {
-      "apps": ["{APPLE_TEAM_ID}.{BUNDLE_ID}"]
+      "apps": ["7H7UTVT9XU.com.festum.app"]
     },
     
     "webcredentials": {
-      "apps": ["{APPLE_TEAM_ID}.{BUNDLE_ID}"]
+      "apps": ["7H7UTVT9XU.com.festum.app"]
     }
   }
       
