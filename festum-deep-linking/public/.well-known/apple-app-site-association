@@ -1,0 +1,9 @@
+{
+    "apps": [],
+    "details": [
+      {
+        "appID": "7H7UTVT9XU.com.festum.app",
+        "paths": ["/fornecedor/*","/*"]
+      }
+    ]
+  }

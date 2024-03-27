@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.gabriel761.frontend",
+            "package_name": "com.festum.app",
             "sha256_cert_fingerprints": [
                 "64:28:39:18:C1:9A:A5:66:D7:5C:BD:79:78:E8:3B:F0:16:49:FD:34:05:93:16:32:F1:93:CC:CF:C7:1F:EF:3C"
             ]
