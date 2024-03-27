@@ -1,9 +1,21 @@
 {
-    "apps": [],
-    "details": [
-      {
-        "appID": "7H7UTVT9XU.com.festum.app",
-        "paths": ["/fornecedor/*","/*"]
-      }
-    ]
+    
+    "applinks": {
+      "apps": [],
+      "details": [
+            {
+                "appID": "7H7UTVT9XU.com.festum.app",
+                "paths": ["/fornecedor/*","/*"]
+            }
+        ]
+    },
+   
+    "activitycontinuation": {
+      "apps": ["{APPLE_TEAM_ID}.{BUNDLE_ID}"]
+    },
+    
+    "webcredentials": {
+      "apps": ["{APPLE_TEAM_ID}.{BUNDLE_ID}"]
+    }
   }
+      
