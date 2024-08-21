@@ -4,18 +4,18 @@
       "apps": [],
       "details": [
             {
-                "appID": "7H7UTVT9XU.app.vercel.festum-app",
+                "appID": "Q6677ZYT4R.app.vercel.festum-app",
                 "paths": ["/fornecedor/*","/*"]
             }
         ]
     },
    
     "activitycontinuation": {
-      "apps": ["7H7UTVT9XU.app.vercel.festum-app"]
+      "apps": ["Q6677ZYT4R.app.vercel.festum-app"]
     },
     
     "webcredentials": {
-      "apps": ["7H7UTVT9XU.app.vercel.festum-app"]
+      "apps": ["Q6677ZYT4R.app.vercel.festum-app"]
     }
   }
       
