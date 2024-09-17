@@ -5,9 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "app.vercel.festum-app",
+            "package_name": "com.festum.frontend",
             "sha256_cert_fingerprints": [
-                "64:28:39:18:C1:9A:A5:66:D7:5C:BD:79:78:E8:3B:F0:16:49:FD:34:05:93:16:32:F1:93:CC:CF:C7:1F:EF:3C"
+                "FF:C8:82:87:89:65:12:4C:01:C3:F6:0C:2C:38:68:64:0C:D0:5E:78:4D:96:7C:D2:59:0B:AA:50:F4:06:0D:56"
             ]
         }
     }
